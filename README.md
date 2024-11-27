@@ -3,8 +3,8 @@
 ## Presentation
 
 [Kobe - Presentation](https://www.figma.com/slides/tmOQDZXXDg6shYu2XgL9BQ/kobe-deck-solana?node-id=1-305&node-type=slide)
-
-[Video introducing Kobe](https://www.youtube.com/watch?v=zvIfosxRu8A)
+[Kobe - Demo] (https://www.youtube.com/watch?v=ayB-s-AuW10)
+[Video introducing Kobe](https://www.youtube.com/watch?v=dPdF_vo-XH8)
 
 ## Description
 
